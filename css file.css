@@ -2,3 +2,40 @@
 span{
     color: blueviolet;
 }
+
+p{
+    color: green;
+}
+    /*
+    p, h1, span{
+        color: grey;
+    }
+    */
+h1{
+    color: red;
+}
+
+*{
+
+}
+
+.classexample{
+    color: indianred;
+}
+
+#myID{
+    font-size: larger;
+}
+
+.divclass{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(223, 233, 235);
+    border: 5px dashed rgb(199, 247, 250)
+}
+
+#ID02{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+}
